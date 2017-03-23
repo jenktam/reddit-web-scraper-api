@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jen Tam",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
